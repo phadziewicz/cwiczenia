@@ -55,7 +55,7 @@
 # print(imie.capitalize())
 # print(nazwisko.capitalize())
 #zad6
-tekst='lala lala la'
+# tekst='lala lala la'
 # policz=tekst.count('la')
 # print(policz)
 #zad7
